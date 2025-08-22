@@ -3,7 +3,7 @@ My First Github Repository For Learning Version Control
 # Hi There
 I'm Ayan Shaikh
 - 🎓 Currently a BCA Student 
-- 💻 I’m exploring *Web Development, starting with **Python & MySQL*.  
+- 💻 I’m exploring *Web Development & starting with **Python & MySQL*.  
 - 📚 Learning GitHub and building projects step by step.  
 - 🌱 My Project *College ERP System* Is Currently in Process..  
 
