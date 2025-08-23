@@ -17,7 +17,7 @@ I'm Ayan Shaikh
 - *Languages:* Python, C++, Java  
 - *Database:* MySQL  
 - *Tools:* Visual Studio Code, GitHub  
-- *Others:* HTML, CSS, JavaScript (Basics)  
+- *Others:* HTML, CSS, JavaScript 
 
 ## 📫 Connect With Me
 - 📧 Email: richieshaikh5691@gmail.com  
